@@ -11,7 +11,7 @@ A program for converting all \[.dds\] images in a catalog to \[.png\] format wit
 ## DDS-PNG-CONVERTER-Dir
 
 * RU:
-Программа для преобразования всех изображений \[.dds\] в каталоге в формат \[.png\] без потери качества с сохранением директории расположения оригинальных файлов. Подойдёт для конвертации больших объёмов файлов, например, для конвертации игровых ассетов.
+Программа для преобразования всех изображений \[.dds\] в каталоге в формат \[.png\] без потери качества с сохранением директории расположения оригинальных файлов. Подойдёт для конвертации больших объёмов файлов, например, для конвертации игровых ассетов. Есть возможность удаления оригинальных изображений \[.dds\] после конвертации для освобождения места на диске.
 
 * EN:
-A program for converting all \[.dds\] images in a directory to \[.png\] format without loss of quality while preserving the directory of the original files. It is suitable for converting large volumes of files, for example, for converting game assets.
+A program for converting all \[.dds\] images in a directory to \[.png\] format without loss of quality while preserving the directory of the original files. It is suitable for converting large volumes of files, for example, for converting game assets. It is possible to delete the original \[.dds\] images after conversion to free up disk space.
